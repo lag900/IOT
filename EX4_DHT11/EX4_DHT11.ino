@@ -6,7 +6,7 @@
 #define DHTTYPE DHT11  // DHT 11 فقط
 
 // بيانات شبكة الواي فاي
-const char* ssid = "LAG";     
+const char* ssid = "ESP";     
 const char* password = "12345678";    
 
 // تحديد البورت
