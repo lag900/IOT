@@ -7,7 +7,7 @@ const int motor1Pin2 = 26;
 const int enable1Pin = 14; 
 
 // WiFi credentials
-const char* ssid = "LAG";
+const char* ssid = "ESP";
 const char* password = "12345678";
 
 // WebServer instance
